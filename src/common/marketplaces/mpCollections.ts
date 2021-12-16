@@ -331,6 +331,9 @@ export const collections = {
   AQHikQMJ12wx8GsdHVRV779E6ki6GTqvv2zYxCQv2r9b: {
     ME: 'sol_buds',
   },
+  C3UphYJYqTab4Yrr64V8wSAxeM7Wr9NUauyYGn7aomTJ: {
+    ME: 'monkey_kingdom',
+  },
   // '': {
   //   SA: '',
   //   DE: '',
