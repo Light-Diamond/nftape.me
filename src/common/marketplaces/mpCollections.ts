@@ -328,8 +328,98 @@ export const collections = {
   '7RCBr3ZQ8yhY4jHpFFo3Kmh7MnaCPi1bFuUgXUB9WURf': {
     ME: 'stoned_ape_crew',
   },
-  AQHikQMJ12wx8GsdHVRV779E6ki6GTqvv2zYxCQv2r9b: {
+  'AQHikQMJ12wx8GsdHVRV779E6ki6GTqvv2zYxCQv2r9b': {
     ME: 'sol_buds',
+  },
+  '52CxUPMg2V8Y4iiEb6kuKe68E8YTaSm8KKLhqGxQp5J': {
+    ME: 'stash',
+  },
+  'C8HLxAAZhX325bnPgKiFmA2c7Y5rPEDSriqxjL4Crj8a': {
+    ME: 'space_bums',
+  },
+  'GDAtbdtCQzwu2qDnrBFLhQBCSb7tNdcpK4hi7NkQuupx': {
+    ME: 'angry_bunny_club',
+  },
+  'J6JPuP91cRdPEWYWN1isvctDGXBEuV7azq1BZAb2dsJX': {
+    ME: 'panda_street',
+  },
+  'DppCCnheCCLg4HncCnQsjiNXi2qETiVp2RKm2QowPW16': {
+    ME: 'birdzhouse_mansion_club',
+  },
+  'BFgjqP2k6fgGa3dBwjENiPMViCKmyknJeMpDWnZb6d42': {
+    ME: 'spookeletons',
+  },
+  'BFgjqP2k6fgGa3dBwjENiPMViCKmyknJeMpDWnZb6d42': {
+    ME: 'spookeletons',
+  },
+  '3ECHt7DovJFmtsw5EBLWdYwpo55PH3hakVby87Szw2tt': {
+    DE'SOL%20PIXEL%20ROCKS',
+  },
+  '5JMRh4YCZatGGCeArMAb789kT5Hsj48hqpBe3V1W5w8Q': {
+    ME: 'the_krooks',
+  },
+  '22aCNyykzcpX6r1ThuZLoqgMHSzsByBBz5bbNkqpMP4q': {
+    ME: 'solana_monkette_busines',
+  },
+  '6vR6MSRttYX38acz3Zzv3g9shwaFck8d54dwta33utGx': {
+    ME: 'candy_corns',
+  },
+  'C3UphYJYqTab4Yrr64V8wSAxeM7Wr9NUauyYGn7aomTJ': {
+    ME: 'monkey_kingdom',
+  },
+  'BnWxyYXQig6hNCaHpvkdeUMBAP5g2EeGE3rtbdCy5UtS': {
+    ME: 'space_bums_galaxy_mint_pass',
+  },
+  '3Pzo3GDFsLKqYxh7syMmYxmDbzmAaAW2xoaegKeTwZuf': {
+    ME: 'vishv_metaverse',
+  },
+  'Cja4uXLjDJEFsUN4pvCTUyoJArF6QrmubQXsDYpp7pDj': {
+    ME: 'doodoo',
+  },
+  '2HhCf6U2CeWr6TAgeXKoxJFLLEqrEDHvj9VJvASCBvtP': {
+    ME: 'metamounts',
+  },
+  'CMZMYE5vjjC5ds5x1cvEcwM2EsD63KtGoMWaPegoAP9': {
+    ME: 'chinesepunkz',
+  },
+  '67k8VBzxnayYyRMNkZA9TN5pJzdNh1XD9f4rmpH27Frz': {
+    ME: 'distortednft',
+  },
+  'C6WFstUSzvmY54YK44qFMdKuHQKzSBwAMJei3Wq3jm4q': {
+    ME: 'kam1',
+  },
+  'AwuhWcbw49oz6bV98eL4352KuPcbt4qGunmAM17EGxBi': {
+    ME: 'lucky_kittens',
+  },
+  'xFKGtNuAUxMvkzxR1jyLcNMZxNGmqeafiEk3tEcNRpt': {
+    ME: 'baby_ape_social_club',
+  },
+  'GiD6wnfgikTWdjk2aqaS9hECfLSGcoBrSEUFVJnaPLTa': {
+    ME: 'oblivia',
+  },
+  '6yiihVLMywrtdLFAwDdhxcLDiMQ9B9jvnFAZAayVj7Zg': {
+    ME: 'zillaz_nft',
+  },
+   '7UEghvhF1DHvZNeLUSHpSP1aa6CQvP73y34Z4xoRcZV': {
+    ME: '2d_catpunk',
+  },
+   '6yP6CmjJJ1zkuwtUsg4BTnjDPxsMxPgVrxg1tieE4Lez': {
+    ME: 'catpunk_og_pass_red',
+  },
+   '7RZ4ervDFMvDnb53fpTRBBZKtezuFqCTjwoSBP1UZm66': {
+    ME: 'catpunk_og_pass_red',
+  },
+  '9VDnXjHdsv8cftvdx3AGs3nLQYtyi5iFN1DkAwF17DnJ': {
+    ME: 'catpunk_og_pass_red',
+  },
+  '2xmSVTEVwoGsuzrqZCiKkxkBiWyaomi6XJ7BQ962zRux': {
+    ME: 'catpunk',
+  },
+  'GA7YXEo2Ursr763E5eoRLYskjrB4m67on8K6jLRu8ZSY': {
+    ME: 'infinity_drakes',
+  },
+  'FznCcguLN2qa7AwDwvgurbLTbhs388VXSmbdYebcQTBy': {
+    ME: 'skeleton_crew_airdrops_and_more',
   },
   // '': {
   //   SA: '',
